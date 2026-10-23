@@ -1,4 +1,4 @@
-# 📦 The Blanket Box (TBB) - 1,021 HTML Unblocked Games
+# 📦 The Blanket Box (TBB) - 1,021 HTML Unblocked Games.
 
 Welcome to the **Blanket Box (TBB) HTML Games Collection**—a clean, lightweight, and completely unblocked archive of **1,021 classic web games**. 
 
