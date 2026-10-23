@@ -1,6 +1,6 @@
-# 📦 The Blanket Box (TBB) - 1,021 HTML Unblocked Games
+# 📦 The Blanket Box (TBB) - 1,020 HTML Unblocked Games
 
-Welcome to the **Blanket Box (TBB) HTML Games Collection**—a clean, lightweight, and completely unblocked archive of **1,021 classic web games**. This repository was built out of a passion for digital preservation. It provides a hassle-free, distraction-free environment for students, developers, and retro-game enthusiasts to play timeless web classics directly in the browser without dealing with heavy ads, pop-ups, or network restrictions.
+Welcome to the **Blanket Box (TBB) HTML Games Collection**—a clean, lightweight, and completely unblocked archive of **1,020 classic web games**. This repository was built out of a passion for digital preservation. It provides a hassle-free, distraction-free environment for students, developers, and retro-game enthusiasts to play timeless web classics directly in the browser without dealing with heavy ads, pop-ups, or network restrictions.
 
 ---
 
@@ -15,9 +15,9 @@ We understand that a repository offering over a thousand unblocked games can loo
 
 ---
 
-## 🎮 Why 1,021 Games?
+## 🎮 Why 1,020 Games?
 
-As web standards shifted, thousands of iconic browser games were lost to broken links and dead domains. The **Blanket Box Project** has meticulously archived, tested, and catalogued **1,021 unique titles** to ensure they remain accessible.
+As web standards shifted, thousands of iconic browser games were lost to broken links and dead domains. The **Blanket Box Project** has meticulously archived, tested, and catalogued **1,020 unique titles** to ensure they remain accessible.
 
 ### What's Inside the Collection?
 
@@ -79,7 +79,7 @@ The Blanket Box project strictly respects intellectual property rights.
 
 ## ❤️ Contributing & Feedback
 
-With 1,021 games, things can occasionally break! If you encounter a broken script, a game that won't load, or if you want to suggest a classic title to make it game number 1,022:
+With 1,020 games, things can occasionally break! If you encounter a broken script, a game that won't load, or if you want to suggest a classic title to make it game number 1,021:
 1. Head over to the **Issues** tab.
 2. File a bug report or feature request using our templates.
 
