@@ -84,3 +84,5 @@ With 1,021 games, things can occasionally break! If you encounter a broken scrip
 2. File a bug report or feature request using our templates.
 
 *Part of the Blanket Box (TBB) Project. Built with 🕹️ for the web.*
+
+<img width="1254" height="1254" alt="Game Controller in a Cardboard Box" src="https://github.com/user-attachments/assets/d62b7fd5-4c94-4a1c-8d03-b9fe907f60e5" />
